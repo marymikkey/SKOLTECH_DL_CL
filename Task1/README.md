@@ -28,6 +28,7 @@ If u need to train the Model inside the container, run:
 python3 Task1_Roads_YOLO_Mary.py
 
 # Project Structure
+'''
 Task1/
 │   Task1_Roads_YOLO_Mary.ipynb
 │   yolo11s.pt
@@ -68,5 +69,5 @@ Task1/
 │   ├── runs/
 │   │   ├── train/
 │   │   ├── val/
-
+'''
 
